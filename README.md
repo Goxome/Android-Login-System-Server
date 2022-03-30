@@ -34,13 +34,13 @@ A PHP Website for Android Login
 
 
 #### 
-   
-<img src="https://user-images.githubusercontent.com/56850970/160874518-28e8c8d8-d3cd-4eac-b0f0-73ef64ca29bf.jpg" width="145" height="300">
+
+![Capture](https://user-images.githubusercontent.com/56850970/160874518-28e8c8d8-d3cd-4eac-b0f0-73ef64ca29bf.jpg)
 
 
 #### 
-   
-<img src="https://user-images.githubusercontent.com/56850970/160874513-6c509a90-1299-4c7a-8f94-5e974449f2d9.jpg" width="145" height="300">
+
+![Capture](https://user-images.githubusercontent.com/56850970/160874513-6c509a90-1299-4c7a-8f94-5e974449f2d9.jpg)
 
 
 
